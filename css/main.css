@@ -782,7 +782,7 @@ section.whowe {
 }
 
 section.whowe {
-    background: url(1c/img/whowe.png) no-repeat center;
+    background: url(/1c/img/whowe.png) no-repeat center;
     background-size: cover;
     min-height: 600px;
     position: relative;
@@ -1552,7 +1552,7 @@ footer .company ul li {
     margin-left: -100px;
     top: -30px;
     text-align: center;
-    background: url(1c/img/tab.png) no-repeat center;
+    background: url(/1c/img/tab.png) no-repeat center;
     background-size: auto;
     width: 200px;
     height: 31px;
